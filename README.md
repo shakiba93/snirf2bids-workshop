@@ -31,7 +31,7 @@ If you prefer to avoid local installation, Colab is the easiest way to participa
 
 - Or, add coding cells in the notebook to edit the files programmatically within Colab.
 
- *(A notebook version for editing CSV, TSV, or JSON files in Colab is provided.)*
+ *(A notebook version for editing CSV, TSV, or JSON files in Colab is provided [here](https://colab.research.google.com/github/shakiba93/snirf2bids-workshop/blob/main/snirf2bids_colab.ipynb).)*
 
 4. Set the ```dataset_path``` variable to the location of the dataset in your Drive.
 
