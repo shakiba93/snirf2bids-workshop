@@ -17,12 +17,8 @@ If you prefer to avoid local installation, Colab is the easiest way to participa
 1. **Install Cedalion on Colab:**
  
  Follow the [instructions](https://doc.ibs.tu-berlin.de/cedalion/doc/dev/getting_started/colab_setup.html#) in the Cedalion documentation for running notebooks on Colab. This will set up both Cedalion and your Google Drive folder.
-2. **Access the sample dataset:**
-
- Use the [shared link](https://drive.google.com/drive/folders/1O3LwW-PW4rOWIXVXF-R7j7nRaixViyTV?usp=sharing) to the dataset and create a shortcut in your **My Drive** folder.
-3. **Editing JSON/TSV files in Colab:**
-
- During the workflow, you may need to modify some JSON or TSV files. Since these cannot be directly edited in Colab’s file browser, you have two options:
+2. **Access the sample dataset:** Use the [shared link](https://drive.google.com/drive/folders/1O3LwW-PW4rOWIXVXF-R7j7nRaixViyTV?usp=sharing) to the dataset and create a shortcut in your **My Drive** folder.
+3. **Editing JSON/TSV files in Colab:** During the workflow, you may need to modify some JSON or TSV files. Since these cannot be directly edited in Colab’s file browser, you have two options:
 - Open/download the files in your Drive/Local storage, edit them, and save/re-upload.
 - Or, add coding cells in the notebook to edit the files programmatically within Colab.
  *(A notebook version for editing CSV, TSV, or JSON files in Colab is provided.)*
