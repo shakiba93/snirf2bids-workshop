@@ -21,7 +21,6 @@ If you have Cedalion installed locally, follow these steps to prepare:
 If you prefer to avoid local installation, Colab is the easiest way to participate (and this is what we will use during the webinar). Follow these preparation steps:
 
 1. **Install Cedalion on Colab:**
- 
  Follow the [instructions](https://doc.ibs.tu-berlin.de/cedalion/doc/dev/getting_started/colab_setup.html#) in the Cedalion documentation for running notebooks on Colab. This will set up both Cedalion and your Google Drive folder.
 
 2. **Access the sample dataset:** Use the [shared link](https://drive.google.com/drive/folders/1O3LwW-PW4rOWIXVXF-R7j7nRaixViyTV?usp=sharing) to the dataset and create a shortcut in your **My Drive** folder.
@@ -37,6 +36,6 @@ If you prefer to avoid local installation, Colab is the easiest way to participa
 4. Set the ```dataset_path``` variable to the location of the dataset in your Drive.
 
 5. Set the ```destination_path``` variable to your desired BIDS output folder.
- (No need to create it manually — it will be automatically generated.)
+(No need to create it manually — it will be automatically generated.)
 
 You are now ready 🙂
